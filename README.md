@@ -4,7 +4,7 @@
 
 CryptoList is a web application designed to help users track their favorite cryptocurrencies. It provides a list of various cryptocurrencies with the option to select favorites. Selected favorites persist across sessions thanks to local storage.
 
-![Screenshot of the application](screenshot-link)
+![Screenshot of the application](https://github.com/oleksandr-korin/crypto-list/blob/main/app-img.png?raw=true)
 
 ## Features
 
