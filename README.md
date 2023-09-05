@@ -25,13 +25,13 @@ CryptoList is a web application designed to help users track their favorite cryp
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/yourusername/CryptoList.git
+    git clone https://github.com/oleksandr-korin/crypto-list.git
     ```
 
 2. **Navigate to the project folder and install dependencies**
 
     ```bash
-    cd CryptoList
+    cd crypto-list
     npm install
     ```
 
